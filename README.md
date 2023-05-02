@@ -16,7 +16,7 @@
 
 
 
-LINK TO DEMO OF THE AI TEACHING ASSITANT https://www.youtube.com/watch?v=JfuTI7ZWOwU
+Youtube link to demo of AI-TA v1.0 https://www.youtube.com/watch?v=JfuTI7ZWOwU
 
 
 ### For the upcoming version 2.0:
