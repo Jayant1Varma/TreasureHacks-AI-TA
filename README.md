@@ -1,4 +1,4 @@
-# TreasureHack
+# TreasureHacks Artificially intelligent teaching assistant
 
 ## Setting up
 ### Frontend
