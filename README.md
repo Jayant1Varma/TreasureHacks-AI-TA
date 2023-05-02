@@ -17,3 +17,11 @@
 
 
 LINK TO DEMO OF THE AI TEACHING ASSITANT https://www.youtube.com/watch?v=JfuTI7ZWOwU
+
+
+### For the upcoming version 2.0:
+
+Added functionalities- 
+
+1. Video recommendations for student's questions
+2. Sample final exam generator
