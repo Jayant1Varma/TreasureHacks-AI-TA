@@ -21,7 +21,7 @@ Youtube link to demo of AI-TA v1.0 https://www.youtube.com/watch?v=JfuTI7ZWOwU
 
 ## For the upcoming version 2.0:
 
-Added functionalities- 
+Functionalities to be added whenver I have time to- 
 
 1. Video recommendations for student's questions
 2. Sample final exam generator
